@@ -1,0 +1,13 @@
+{
+  "name": "emulationscreenshots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Pierre Sköldborg <pierre.skoldborg@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "puppeteer": "^1.7.0"
+  }
+}
